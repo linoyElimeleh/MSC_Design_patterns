@@ -71,6 +71,5 @@ namespace ConsoleUI.Actions
                 isVolumeInCCOK = int.TryParse(Console.ReadLine(), out EngineVolumeInCC);
             }
         }
-
     }
 }

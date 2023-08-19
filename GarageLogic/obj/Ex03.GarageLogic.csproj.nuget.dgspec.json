@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\00project\\garage\\GarageLogic\\Ex03.GarageLogic.csproj": {}
+    "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\projects\\00\\MSC_Design_patterns\\GarageLogic\\Ex03.GarageLogic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\00project\\garage\\GarageLogic\\Ex03.GarageLogic.csproj": {
+    "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\projects\\00\\MSC_Design_patterns\\GarageLogic\\Ex03.GarageLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\00project\\garage\\GarageLogic\\Ex03.GarageLogic.csproj",
+        "projectUniqueName": "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\projects\\00\\MSC_Design_patterns\\GarageLogic\\Ex03.GarageLogic.csproj",
         "projectName": "Ex03.GarageLogic",
-        "projectPath": "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\00project\\garage\\GarageLogic\\Ex03.GarageLogic.csproj",
+        "projectPath": "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\projects\\00\\MSC_Design_patterns\\GarageLogic\\Ex03.GarageLogic.csproj",
         "packagesPath": "C:\\Users\\amit3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\00project\\garage\\GarageLogic\\obj\\",
+        "outputPath": "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\projects\\00\\MSC_Design_patterns\\GarageLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
