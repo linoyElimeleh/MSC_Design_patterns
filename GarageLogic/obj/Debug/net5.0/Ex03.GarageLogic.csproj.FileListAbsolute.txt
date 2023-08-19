@@ -1,0 +1,11 @@
+C:\Users\amit3\Desktop\לינוי\תואר שני\הנדסת תכנה בעזרת desgin patterns\00project\garage\GarageLogic\bin\Debug\net5.0\Ex03.GarageLogic.deps.json
+C:\Users\amit3\Desktop\לינוי\תואר שני\הנדסת תכנה בעזרת desgin patterns\00project\garage\GarageLogic\bin\Debug\net5.0\Ex03.GarageLogic.dll
+C:\Users\amit3\Desktop\לינוי\תואר שני\הנדסת תכנה בעזרת desgin patterns\00project\garage\GarageLogic\bin\Debug\net5.0\ref\Ex03.GarageLogic.dll
+C:\Users\amit3\Desktop\לינוי\תואר שני\הנדסת תכנה בעזרת desgin patterns\00project\garage\GarageLogic\bin\Debug\net5.0\Ex03.GarageLogic.pdb
+C:\Users\amit3\Desktop\לינוי\תואר שני\הנדסת תכנה בעזרת desgin patterns\00project\garage\GarageLogic\obj\Debug\net5.0\Ex03.GarageLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amit3\Desktop\לינוי\תואר שני\הנדסת תכנה בעזרת desgin patterns\00project\garage\GarageLogic\obj\Debug\net5.0\Ex03.GarageLogic.AssemblyInfoInputs.cache
+C:\Users\amit3\Desktop\לינוי\תואר שני\הנדסת תכנה בעזרת desgin patterns\00project\garage\GarageLogic\obj\Debug\net5.0\Ex03.GarageLogic.AssemblyInfo.cs
+C:\Users\amit3\Desktop\לינוי\תואר שני\הנדסת תכנה בעזרת desgin patterns\00project\garage\GarageLogic\obj\Debug\net5.0\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
+C:\Users\amit3\Desktop\לינוי\תואר שני\הנדסת תכנה בעזרת desgin patterns\00project\garage\GarageLogic\obj\Debug\net5.0\Ex03.GarageLogic.dll
+C:\Users\amit3\Desktop\לינוי\תואר שני\הנדסת תכנה בעזרת desgin patterns\00project\garage\GarageLogic\obj\Debug\net5.0\ref\Ex03.GarageLogic.dll
+C:\Users\amit3\Desktop\לינוי\תואר שני\הנדסת תכנה בעזרת desgin patterns\00project\garage\GarageLogic\obj\Debug\net5.0\Ex03.GarageLogic.pdb

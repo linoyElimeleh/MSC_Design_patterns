@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\00project\\garage\\ConsoleUI\\ConsoleUI.csproj": {}
+    "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\00project\\garage\\ConsoleUI\\Ex03.ConsoleUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\00project\\garage\\ConsoleUI\\ConsoleUI.csproj": {
+    "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\00project\\garage\\ConsoleUI\\Ex03.ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\00project\\garage\\ConsoleUI\\ConsoleUI.csproj",
-        "projectName": "ConsoleUI",
-        "projectPath": "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\00project\\garage\\ConsoleUI\\ConsoleUI.csproj",
+        "projectUniqueName": "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\00project\\garage\\ConsoleUI\\Ex03.ConsoleUI.csproj",
+        "projectName": "Ex03.ConsoleUI",
+        "projectPath": "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\00project\\garage\\ConsoleUI\\Ex03.ConsoleUI.csproj",
         "packagesPath": "C:\\Users\\amit3\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\00project\\garage\\ConsoleUI\\obj\\",
         "projectStyle": "PackageReference",
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\00project\\garage\\GarageLogic\\x03.GarageLogic.csproj": {
-                "projectPath": "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\00project\\garage\\GarageLogic\\x03.GarageLogic.csproj"
+              "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\00project\\garage\\GarageLogic\\Ex03.GarageLogic.csproj": {
+                "projectPath": "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\00project\\garage\\GarageLogic\\Ex03.GarageLogic.csproj"
               }
             }
           }
@@ -66,12 +66,12 @@
         }
       }
     },
-    "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\00project\\garage\\GarageLogic\\x03.GarageLogic.csproj": {
+    "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\00project\\garage\\GarageLogic\\Ex03.GarageLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\00project\\garage\\GarageLogic\\x03.GarageLogic.csproj",
-        "projectName": "x03.GarageLogic",
-        "projectPath": "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\00project\\garage\\GarageLogic\\x03.GarageLogic.csproj",
+        "projectUniqueName": "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\00project\\garage\\GarageLogic\\Ex03.GarageLogic.csproj",
+        "projectName": "Ex03.GarageLogic",
+        "projectPath": "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\00project\\garage\\GarageLogic\\Ex03.GarageLogic.csproj",
         "packagesPath": "C:\\Users\\amit3\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\amit3\\Desktop\\לינוי\\תואר שני\\הנדסת תכנה בעזרת desgin patterns\\00project\\garage\\GarageLogic\\obj\\",
         "projectStyle": "PackageReference",
